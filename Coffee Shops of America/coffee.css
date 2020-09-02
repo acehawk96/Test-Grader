@@ -1,0 +1,130 @@
+/*
+  Haleem Hawkins
+  09 Jun 2020
+  Coffee Shops of America final project
+*/
+#wrapper{
+	      width: 80%;
+		  min-width: 420px; 
+		  max-width: 1280px;
+		  margin-left: auto;
+		  margin-right: auto;
+		  background-color: #d4c2a0;
+		  color: #3F2860;
+        }
+header{ 
+        text-align: center;
+	    background-image: url(images/logo.png);
+		background-position: left;
+		background-repeat: no-repeat;
+		background-size: 20%;
+	    line-height: 100px;
+		font-size: 25px;
+		padding-top: .5em;
+      }
+body{
+	  background-color: #9a8495;
+    }
+h1{ 
+    font-family: Georgia, Palatino, serif; 
+  }
+nav{  
+      background-color: #cc5447;
+	  font-family: Verdana, Arial, sans-serif;
+	  padding: 1em;
+	  text-align: left;
+    }
+nav a{ 
+	   text-decoration: none;
+	   color: #3F2860;
+     }
+a{
+    padding-left: 5px;
+	padding-right:5px;
+ }
+p{
+   font-family: Verdana, Arial, sans-serif;
+   font-size: 19px;
+   padding: 2em;
+ }
+ h2{
+	 text-align: center;
+   }
+
+ img{
+	 padding-left: 3em;
+	 padding-bottom: 2em;
+    }
+ul li{
+	padding-bottom: 1em;
+	font-size: 19pt;
+	padding-left: 1em;
+  }
+ol li{
+	padding-bottom: 1em;
+	font-size: 15pt;
+  }
+ol li img{
+	       margin: 1em;
+	       padding: 0.5em;
+		   background: #714A54;
+         }
+ table{
+	    margin: auto;
+		margin-bottom: 4em;
+      }
+table, th, td {
+                border: 2px solid #714A54;
+              }
+th{
+    font-size: 20pt;
+  }
+td{
+    padding: 0.5em;
+	margin: auto;
+  }
+td a{
+	  text-decoration: none;
+	  font-size: 17pt;
+	  color: white;
+    }
+td img{
+	    padding:1em;
+		margin: auto;
+      }
+#img{
+	       margin: 1em;
+	       padding: 0.5em;
+		   background: #714A54;
+}
+footer{
+	    background-color: #cc5447;
+		padding: 1px;
+		padding-right: 1em;
+		text-align: right;
+		font-weight: bold;
+		font-size: 20px
+      }
+footer a{
+	      color: #3F2860;
+		  font-family: Verdana, Arial, sans-serif;
+		  text-decoration: none;
+        }
+form{
+	  background-color: #EAEAEA;
+	  width: 350px; 
+	  padding: 10px; 
+	  height: 400px;
+	 text-align: left;
+	 margin: 3em;
+    }
+textarea{
+	      height: 300px;
+		  width: 300px; 
+        }  
+.shops{
+	   text-decoration: none; 
+	   display: block;
+	   text-align: center; 
+	   font-weight: bold;
+      }
